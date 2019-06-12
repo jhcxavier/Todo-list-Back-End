@@ -1,4 +1,4 @@
-# Flask Boilerplate 4Geeks Academy
+# Back End for todo list
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/flask-rest-hello.git)
 
